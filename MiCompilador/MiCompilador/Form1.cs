@@ -1,4 +1,5 @@
-﻿using System;
+﻿using com.calitha.goldparser;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -12,8 +13,10 @@ namespace MiCompilador
 {
     public partial class Form1 : Form
     {
+        MyParser analizador;
         public Form1()
         {
+            analizador = new MyParser(Application.StartupPath + "\\GramaticaFinaly.cgt");
             InitializeComponent();
         }
 
@@ -22,9 +25,9 @@ namespace MiCompilador
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e) //Boton_analizar
         {
-
+            analizador.Parse(richTextBox1.Text);
         }
     }
 }
