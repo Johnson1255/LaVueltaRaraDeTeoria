@@ -225,6 +225,12 @@ namespace com.calitha.goldparser
     public class MyParser
     {
         private LALRParser parser;
+        public static String cadenaErrores;
+
+        public String getCadena()
+        {
+            return cadenaErrores;
+        }
 
         public MyParser(string filename)
         {
