@@ -1,0 +1,28 @@
+principal {
+
+    int a;
+    char b = p;
+    double c = 3.14;
+    String d = "DaleZeldaDale";
+    boolean e = true;
+    int f;
+    f = 10;
+    g = f + 5;
+    if (g > 0) {
+        g = g - 1;
+    } else {
+        g = g + 1;
+    }
+
+    for ( i = 0 i < 10; i = i + 1) {
+        z = a + i;
+    }
+
+    while (g > 0) {
+        g = g - 1;
+    }
+}
+
+int funcionSuma(int t) {
+    return t + o;
+}
