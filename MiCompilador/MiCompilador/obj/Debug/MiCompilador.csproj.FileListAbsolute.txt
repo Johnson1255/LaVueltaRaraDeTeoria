@@ -12,3 +12,15 @@ C:\Users\Johnson\source\repos\MiCompilador\MiCompilador\obj\Debug\MiCompilador.c
 C:\Users\Johnson\source\repos\MiCompilador\MiCompilador\obj\Debug\MiCompilador.csproj.CopyComplete
 C:\Users\Johnson\source\repos\MiCompilador\MiCompilador\obj\Debug\MiCompilador.exe
 C:\Users\Johnson\source\repos\MiCompilador\MiCompilador\obj\Debug\MiCompilador.pdb
+C:\Users\juaga\Downloads\LaVueltaRaraDeTeoria-main (3)\LaVueltaRaraDeTeoria-main\MiCompilador\MiCompilador\bin\Debug\MiCompilador.exe.config
+C:\Users\juaga\Downloads\LaVueltaRaraDeTeoria-main (3)\LaVueltaRaraDeTeoria-main\MiCompilador\MiCompilador\bin\Debug\MiCompilador.exe
+C:\Users\juaga\Downloads\LaVueltaRaraDeTeoria-main (3)\LaVueltaRaraDeTeoria-main\MiCompilador\MiCompilador\bin\Debug\MiCompilador.pdb
+C:\Users\juaga\Downloads\LaVueltaRaraDeTeoria-main (3)\LaVueltaRaraDeTeoria-main\MiCompilador\MiCompilador\obj\Debug\MiCompilador.csproj.AssemblyReference.cache
+C:\Users\juaga\Downloads\LaVueltaRaraDeTeoria-main (3)\LaVueltaRaraDeTeoria-main\MiCompilador\MiCompilador\obj\Debug\MiCompilador.csproj.SuggestedBindingRedirects.cache
+C:\Users\juaga\Downloads\LaVueltaRaraDeTeoria-main (3)\LaVueltaRaraDeTeoria-main\MiCompilador\MiCompilador\obj\Debug\MiCompilador.Form1.resources
+C:\Users\juaga\Downloads\LaVueltaRaraDeTeoria-main (3)\LaVueltaRaraDeTeoria-main\MiCompilador\MiCompilador\obj\Debug\MiCompilador.Properties.Resources.resources
+C:\Users\juaga\Downloads\LaVueltaRaraDeTeoria-main (3)\LaVueltaRaraDeTeoria-main\MiCompilador\MiCompilador\obj\Debug\MiCompilador.csproj.GenerateResource.cache
+C:\Users\juaga\Downloads\LaVueltaRaraDeTeoria-main (3)\LaVueltaRaraDeTeoria-main\MiCompilador\MiCompilador\obj\Debug\MiCompilador.csproj.CoreCompileInputs.cache
+C:\Users\juaga\Downloads\LaVueltaRaraDeTeoria-main (3)\LaVueltaRaraDeTeoria-main\MiCompilador\MiCompilador\obj\Debug\MiCompilador.csproj.CopyComplete
+C:\Users\juaga\Downloads\LaVueltaRaraDeTeoria-main (3)\LaVueltaRaraDeTeoria-main\MiCompilador\MiCompilador\obj\Debug\MiCompilador.exe
+C:\Users\juaga\Downloads\LaVueltaRaraDeTeoria-main (3)\LaVueltaRaraDeTeoria-main\MiCompilador\MiCompilador\obj\Debug\MiCompilador.pdb

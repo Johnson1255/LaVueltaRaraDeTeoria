@@ -9,6 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
 namespace MiCompilador
 {
     public partial class Form1 : Form
@@ -27,6 +28,7 @@ namespace MiCompilador
 
         private void button1_Click(object sender, EventArgs e) //Boton_analizar
         {
+            MyParser.cadenaErrores = "";
             analizador.Parse(richTextBox1.Text);
             richTextBox2.Text = string.Empty;
             richTextBox2.Text = analizador.getCadena();
