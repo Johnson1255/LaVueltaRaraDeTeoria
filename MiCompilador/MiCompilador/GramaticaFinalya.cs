@@ -1173,14 +1173,25 @@ namespace com.calitha.goldparser
         {
             string message = "Error Lexico: La cadena no pertenece al lenguaje: '"+args.Token.ToString()+"'";
             //todo: Report message to UI?
+            cadenaErrores = cadenaErrores + message + args.Token.Location.LineNr + "\n";
+            if(parser != null)
+            {
+                args.Continue = true;
+            }
+            else
+            {
+                cadenaErrores = "";
+            }
+            
         }
 
         private void ParseErrorEvent(LALRParser parser, ParseErrorEventArgs args)
         {
-            string message = "Error Sintactico: La cadena no se puede d" +
-                "" +
-                "erivar: '"+args.UnexpectedToken.ToString()+"'";
+            string message = "Error Sintactico: La cadena no se puede derivar: '"+args.UnexpectedToken.ToString()+"'";
             //todo: Report message to UI?
+            cadenaErrores = cadenaErrores + message + args.UnexpectedToken.Location.LineNr + "\n";
+            args.Continue = ContinueMode.Skip;
+
         }
 
         private void ReduceEvent(LALRParser parser, ReduceEventArgs args)

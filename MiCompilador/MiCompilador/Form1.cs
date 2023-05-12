@@ -28,6 +28,9 @@ namespace MiCompilador
         private void button1_Click(object sender, EventArgs e) //Boton_analizar
         {
             analizador.Parse(richTextBox1.Text);
+            richTextBox2.Text = string.Empty;
+            richTextBox2.Text = analizador.getCadena();
+
         }
     }
 }
